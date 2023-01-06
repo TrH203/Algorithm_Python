@@ -1,0 +1,6 @@
+Linked has many way to implement
+1.Linked List
+2.Linked Stack
+3.Linked Queue
+4.Position Array
+...
