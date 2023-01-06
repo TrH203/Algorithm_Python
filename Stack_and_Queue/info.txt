@@ -1,0 +1,4 @@
+This is Stack and Queue.
+I put Stack and Queue together because it is many similar.
+Stack is LIFO(Last in, first out) like a Stack of Book
+Queue is FIFO(First in, first out) like people line up to buy food
